@@ -9,7 +9,7 @@ Repositório para desafio da certificação do curso de Github na DIO.
 
 <img src="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2016/04/30/529865/20160430114847411945a.jpg" width="300px">
 
-                Florzinha|Lindinha|Docinho
+     Florzinha|Lindinha|Docinho
 
 ------
 
