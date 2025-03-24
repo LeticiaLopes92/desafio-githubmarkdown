@@ -14,3 +14,9 @@ Repositório para desafio da certificação do curso de Github na DIO.
 ------
 
 ### **Pequena descrição sobre as personagens**
+
+### **Florzinha**
+
+### **Lindinha**
+
+### *Docinho**
