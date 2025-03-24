@@ -15,11 +15,16 @@ Repositório para desafio da certificação do curso de Github na DIO.
 
 ### **Pequena descrição sobre as personagens**
 
+-----
+
 ### **Florzinha**
 
 **Características Físicas**: É ruiva e usa um laço vermelho gigante no alto da cabeça e o cabelo preso, com um vestido rosa.
+
 **Características Emocionais**: Confiante, orgulhosa, batalhadora e Alegre.
+
 **Elemento**: Tudo que há de bom (Everything Nice).
+
 **Habilidades**: Florzinha é a líder das Meninas Superpoderosas com uma perfeita combinação de inteligência, beleza e força! O trabalho dela é fazer com que as meninas estejam sempre preparadas para lutar contra o mal, e manter a verdade e a justiça em Townsville.
 
 ----
@@ -27,8 +32,11 @@ Repositório para desafio da certificação do curso de Github na DIO.
 ### **Lindinha**
 
 **Características Físicas**:  É loira e usa duas maria-chiquinhas. Tem olhos azuis da mesma cor de seu vestido.
+
 **Características Emocionais**: Doce, sensível, corajosa (mas tem medo do escuro), inocente e observadora. A mais sensível do trio.
+
 **Elemento**: Açúcar (Sugar).
+
 **Habilidades**: É ela quem carrega a alma das Meninas Superpoderosas. Borboletas são as coisas mais lindas e fofas para ela, se bem que quase tudo que ela vê é fofo para ela. Mas tome muito cuidado, esse anjinho de cabelos dourados pode ser bem perigoso!
 
 ----
@@ -36,6 +44,9 @@ Repositório para desafio da certificação do curso de Github na DIO.
 ### **Docinho**
 
 **Características Físicas**:  Cabelos curtos e pretos com detalhes espetados, olhos verdes da cor do vestido.
+
 **Características Emocionais**: Agressiva, brincalhona, corajosa e sociável. A “lutadora” do trio (Durona das Meninas Superpoderosas).
+
 **Elemento**: Tempero (Spice).
+
 **Habilidades**: Ela tem a atitude de uma Menina Superpoderosa. Só quer saber de ser a mais forte do mundo, e a pior coisa para ela é ter que usar vestido longo. Docinho gosta de bater primeiro e perguntar depois... ou melhor ainda... deixar que Florzinha tome conta do interrogatório.
