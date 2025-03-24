@@ -19,6 +19,8 @@ Repositório para desafio da certificação do curso de Github na DIO.
 
 ### **Florzinha**
 
+<img src= "https://i.pinimg.com/736x/d6/2a/36/d62a3682a6ba2e59f394fc835452d547.jpg" width="300px">
+
 **Características Físicas**: É ruiva e usa um laço vermelho gigante no alto da cabeça e o cabelo preso, com um vestido rosa.
 
 **Características Emocionais**: Confiante, orgulhosa, batalhadora e Alegre.
@@ -31,6 +33,8 @@ Repositório para desafio da certificação do curso de Github na DIO.
 
 ### **Lindinha**
 
+<img src= "https://i.pinimg.com/736x/54/9c/73/549c735212b4ebee65f6ff1f18e96fc5.jpg" width="300px">
+
 **Características Físicas**:  É loira e usa duas maria-chiquinhas. Tem olhos azuis da mesma cor de seu vestido.
 
 **Características Emocionais**: Doce, sensível, corajosa (mas tem medo do escuro), inocente e observadora. A mais sensível do trio.
@@ -42,6 +46,8 @@ Repositório para desafio da certificação do curso de Github na DIO.
 ----
 
 ### **Docinho**
+
+<img src= "https://i.pinimg.com/736x/22/79/94/227994adaddd42f83cba7f669939de8b.jpg" width="300px">
 
 **Características Físicas**:  Cabelos curtos e pretos com detalhes espetados, olhos verdes da cor do vestido.
 
