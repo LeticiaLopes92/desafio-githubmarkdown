@@ -19,4 +19,4 @@ Repositório para desafio da certificação do curso de Github na DIO.
 
 ### **Lindinha**
 
-### *Docinho**
+### **Docinho**
